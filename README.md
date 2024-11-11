@@ -1,4 +1,3 @@
-The project was a part of "Machine learning" subject of "Master of Data Science" degree from La Trobe University.
 # Problem Description
 The Fashion MNIST database is a grayscale image dataset of 10 types of clothing, such as shoes, t-shirts, dresses, and more. The mapping of all 0-9 integers to class labels is listed below  
 • 0: T-shirt/top  
